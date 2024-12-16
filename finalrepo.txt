@@ -1,0 +1,7 @@
+https://github.com/B-OroszDorka/ReactFinal
+
+Továbbfejlesztési lehetőségek (időhiányában nem kerültek megvalósításra):
+
+- Törölni csak saját wallet-et lehessen (ha a bejelentkezett felhasználó nem egyenlő a wallet tulajdonosával, hibaüzenet és abort)
+- Tulajdonost ne lehessen a hozzáférők listájából törölni (ha a megosztás visszavonása során a választott felhasználó a wallet tulajdonosa, hibaüzenet és abort)
+- Saját tárcák listázása (olyan tárcák, ahol a bejelentkezett felhasználó a tulajdonos --> minden wallet lekérése után frontend szűrés)
